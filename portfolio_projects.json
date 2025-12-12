@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Bemal",
-      "description": "Financial solutions platform for companies and employees."
+      "description": "Financial solutions platform for companies and employees.",
       "path": "bemal",
       "technologys": [
         "Flutter",
