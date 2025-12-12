@@ -3,6 +3,7 @@
     {
       "name": "bemal",
       "description": "Financial solutions platform for companies and employees."
+      "path": "bemal",
       "technologys": [
         "Flutter",
         "Payment getaway",
