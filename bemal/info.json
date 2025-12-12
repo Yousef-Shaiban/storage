@@ -3,6 +3,8 @@
   "description": "Financial solutions platform for companies and employees."
   "technologys": [
     "Flutter",
-    "Payment getaway"
+    "Payment getaway",
+    "Signal hooks",
+    "Animations"
   ]
 }
