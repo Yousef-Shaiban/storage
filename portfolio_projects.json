@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "bemal",
+      "description": "Financial solutions platform for companies and employees."
+      "technologys": [
+        "Flutter",
+        "Payment getaway",
+        "Signal hooks",
+        "Animations"
+      ]
+    }
+  ]
+}
